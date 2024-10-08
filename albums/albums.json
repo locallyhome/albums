@@ -1,7 +1,8 @@
 {
   "album": {
-    "Hellfire": {
+    "hellfire": {
       "id": 1,
+      "name": "Hellfire",
       "artist": "black midi",
       "year": "2022",
       "songs": "10",
@@ -20,8 +21,9 @@
       }
     },
 
-    "Ants From Up There": {
+    "ants_from_up_there": {
       "id": 2,
+      "name": "Ants From Up There",
       "artist": "Black Country, New Road",
       "year": "2022",
       "songs": "10",
@@ -40,8 +42,9 @@
       }
     },
 
-    "To Pimp A Butterfly": {
+    "to_pimp_a_butterfly": {
       "id": 3,
+      "name": "To Pimp a Butterfly",
       "artist": "Kendrick Lamar",
       "year": "2015",
       "songs": "16",
@@ -66,8 +69,9 @@
       }
     },
 
-    "Twin Fantasy": {
+    "twin_fantasy": {
       "id": 4,
+      "name": "Twin Fantasy",
       "artist": "Car Seat Headrest",
       "year": "2018",
       "songs": "10",
@@ -86,8 +90,9 @@
       }
     },
 
-    "Flower Boy": {
+    "flower_boy": {
       "id": 5,
+      "name": "Flower Boy",
       "artist": "Tyler, The Creator",
       "year": "2017",
       "songs": "14",
@@ -110,8 +115,9 @@
       }
     },
 
-    "This Old Dog": {
+    "this_old_dog": {
       "id": 6,
+      "name": "This Old Dog",
       "artist": "Mac DeMarco",
       "year": "2017",
       "songs": "13",
@@ -133,8 +139,9 @@
       }
     },
 
-    "Time Will Die and Love Will Bury It": {
+    "time_will_die": {
       "id": 7,
+      "name": "Time Will Die and Love Will Bury It",
       "artist": "Rolo Tomassi",
       "year": "2018",
       "songs": "10",
@@ -153,8 +160,9 @@
       }
     },
 
-    "Pale Machine": {
+    "pale_machine": {
       "id": 8,
+      "name": "Pale Machine",
       "artist": "bo en",
       "year": "2013",
       "songs": "8",
@@ -171,8 +179,9 @@
       }
     },
 
-    "The Turning Wheel": {
+    "turning_wheel": {
       "id": 9,
+      "name": "The Turning Wheel",
       "artist": "SPELLLING",
       "year": "2021",
       "songs": "12",
@@ -193,8 +202,9 @@
       }
     },
 
-    "Debonair": {
+    "debonair": {
       "id": 10,
+      "name": "Debonair",
       "artist": "Horsey",
       "year": "2021",
       "songs": "11",
@@ -212,6 +222,9 @@
         "10": "Leaving Song",
         "11": "Seahorse"
       }
+    }
+  }
+}
     }
   }
 }
