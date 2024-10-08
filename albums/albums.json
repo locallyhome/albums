@@ -1,0 +1,217 @@
+{
+  "album": {
+    "Hellfire": {
+      "id": 1,
+      "artist": "black midi",
+      "year": "2022",
+      "songs": "10",
+      "duration": "38 min 58 sec",
+      "tracks": {
+        "1": "Hellfire",
+        "2": "Sugar/Tzu",
+        "3": "Eat Men Eat",
+        "4": "Welcome to Hell",
+        "5": "Still",
+        "6": "Half Time",
+        "7": "The Race is About To Begin",
+        "8": "Dangerous Liaisons",
+        "9": "The Defence",
+        "10": "27 Questions"
+      }
+    },
+
+    "Ants From Up There": {
+      "id": 2,
+      "artist": "Black Country, New Road",
+      "year": "2022",
+      "songs": "10",
+      "duration": "28 min 58 sec",
+      "tracks": {
+        "1": "Intro",
+        "2": "Chaos Space Marine",
+        "3": "Concorde",
+        "4": "Bread Song",
+        "5": "Good Will Hunting",
+        "6": "Haldern",
+        "7": "Mark's Theme",
+        "8": "The Place Where He Inserted The Blade",
+        "9": "Snow Globes",
+        "10": "BasketBall Shoes"
+      }
+    },
+
+    "To Pimp A Butterfly": {
+      "id": 3,
+      "artist": "Kendrick Lamar",
+      "year": "2015",
+      "songs": "16",
+      "duration": "1 hr 18 min",
+      "tracks": {
+        "1": "Wesley's Theory",
+        "2": "ForFree?-Interlude",
+        "3": "King Kunta",
+        "4": "Institutionalized",
+        "5": "These Walls",
+        "6": "u",
+        "7": "Alright",
+        "8": "ForSale?-Interlude",
+        "9": "Momma",
+        "10": "Hood Politics",
+        "11": "How Much A Dollar Cost",
+        "12": "Complexion",
+        "13": "The Black The Berry",
+        "14": "You Ain't Gotta Lie(Momma Said)",
+        "15": "i",
+        "16": "Mortal Man"
+      }
+    },
+
+    "Twin Fantasy": {
+      "id": 4,
+      "artist": "Car Seat Headrest",
+      "year": "2018",
+      "songs": "10",
+      "duration": "1 hr 11 min",
+      "tracks": {
+        "1": "My Boy - Twin Fantasy",
+        "2": "Beach Life-In-Death",
+        "3": "Stop Smoking(We Love You)",
+        "4": "Sober to Death",
+        "5": "Nervous Young Inhumans",
+        "6": "Bodys",
+        "7": "Cute Thing",
+        "8": "High to Death",
+        "9": "Famous Prophets(Stars)",
+        "10": "Twin Fantasy(Those Boys)"
+      }
+    },
+
+    "Flower Boy": {
+      "id": 5,
+      "artist": "Tyler, The Creator",
+      "year": "2017",
+      "songs": "14",
+      "duration": "46 min 39 sec",
+      "tracks": {
+        "1": "Foreword (feat. Rex Orange County)",
+        "2": "Where This Flower Blooms (feat. Frank Ocean)",
+        "3": "Sometimes...",
+        "4": "See You Again(feat. Kali Uchis)",
+        "5": "Who Dat Boy (feat. A$AP Rocky)",
+        "6": "Pothole (feat. Jaden Smith)",
+        "7": "Garden Shed (feat. Estelle)",
+        "8": "Boredom (feat. Rex Orance County & Anna of the North)",
+        "9": "I Ain't Got Time!",
+        "10": "911/Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+        "11": "Droppin' Seeds (feat. Lil' Wayne)",
+        "12": "November",
+        "13": "Glitter",
+        "14": "Enjoy Right Now, Today"
+      }
+    },
+
+    "This Old Dog": {
+      "id": 6,
+      "artist": "Mac DeMarco",
+      "year": "2017",
+      "songs": "13",
+      "duration": "42 min 28 sec",
+      "tracks": {
+        "1": "My Old Man",
+        "2": "This Old Dog",
+        "3": "Baby You're Out",
+        "4": "For the First Time",
+        "5": "One Another",
+        "6": "Still Beating",
+        "7": "Sister",
+        "8": "Dreams from Yesterday",
+        "9": "A Wolf Who Wears Sheeps Clothes",
+        "10": "One More Love Song",
+        "11": "On the Level",
+        "12": "Moonlight on the River",
+        "13": "Watching Him Fade Away"
+      }
+    },
+
+    "Time Will Die and Love Will Bury It": {
+      "id": 7,
+      "artist": "Rolo Tomassi",
+      "year": "2018",
+      "songs": "10",
+      "duration": "53 min 4 sec",
+      "tracks": {
+        "1": "Towards Dawn",
+        "2": "Aftermath",
+        "3": "Rituals",
+        "4": "The Hollow Hour",
+        "5": "Balancing the Dark",
+        "6": "Alma Mater",
+        "7": "A Flood of Light",
+        "8": "Whispers Among Us",
+        "9": "Contretemps",
+        "10": "Risen"
+      }
+    },
+
+    "Pale Machine": {
+      "id": 8,
+      "artist": "bo en",
+      "year": "2013",
+      "songs": "8",
+      "duration": "26 min 9 sec",
+      "tracks": {
+        "1": "Intro",
+        "2": "Miss You",
+        "3": "Be Okay",
+        "4": "Every Day",
+        "5": "Friend",
+        "6": "Winter Valentine",
+        "7": "Pale Machine",
+        "8": "My Time"
+      }
+    },
+
+    "The Turning Wheel": {
+      "id": 9,
+      "artist": "SPELLLING",
+      "year": "2021",
+      "songs": "12",
+      "duration": "57 min 32 sec",
+      "tracks": {
+        "1": "Little Deer",
+        "2": "Always",
+        "3": "Turning Wheel",
+        "4": "The Future",
+        "5": "Awaken",
+        "6": "Emperor with an Egg",
+        "7": "Boys at School",
+        "8": "Legacy",
+        "9": "Queen of Wands",
+        "10": "Magic Act",
+        "11": "Revolution",
+        "12": "Sweet Talk"
+      }
+    },
+
+    "Debonair": {
+      "id": 10,
+      "artist": "Horsey",
+      "year": "2021",
+      "songs": "11",
+      "duration": "34 min 12 sec",
+      "tracks": {
+        "1": "Sippy Cup",
+        "2": "Arms and Legs",
+        "3": "Underground",
+        "4": "Everyone's Tongue",
+        "5": "Wharf (i)",
+        "6": "Wharf (ii)",
+        "7": "Lagoon",
+        "8": "1070",
+        "9": "Clown",
+        "10": "Leaving Song",
+        "11": "Seahorse"
+      }
+    }
+  }
+}
